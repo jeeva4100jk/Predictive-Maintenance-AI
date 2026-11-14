@@ -3,7 +3,13 @@
 
 An end-to-end Machine Learning project that analyzes industrial machine sensor data to predict potential equipment failures and support proactive maintenance decisions.
 
----
+## 🌐 Live Application
+
+**Try the Predictive Maintenance AI application here:**
+
+https://predictive-maintenance-ai-gxxcuycp9nbvfr2xndyjxv.streamlit.app/
+
+Explore the application by entering machine operating parameters and generating machine failure predictions.
 
 ## 📌 Project Overview
 
